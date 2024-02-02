@@ -1,6 +1,6 @@
 /* Create a global array with values [1,6,2,4,5,8,9,0]. Sort the same within the child process, and 
 display the values in the parent process. Are the displayed values in the sorted order? 
-If not, why? */
+If not, why? Note: No interprocess communication */
 
 //code: 
 
